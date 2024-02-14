@@ -1,2 +1,0 @@
-You can go ahead and ignore the nevermore parts (Duo_Cartridge_XL, Duo_Plenum_Lid,Duo_Plenum_wago).
-They were desinged wrong so go to the nevermore github and download the correct ones there. 

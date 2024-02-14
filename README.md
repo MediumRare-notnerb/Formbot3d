@@ -36,6 +36,10 @@ Well lucky for you, I made a list! :-)
 * Digital calipers 
 
 
+## Printing
+head over to the `2.4 STLs` and download all of the files there if you are printing parts for a 2.4 "pro" kit. 
+The `250`, `300`, `350`  folders contain the parts needed for each build volume. **So make sure to print the relevant ones!**
+
 
 If you run into problems with your build or have quesitons reach out to formbot directly or ask on their discord server [here.](https://discord.gg/) 
 

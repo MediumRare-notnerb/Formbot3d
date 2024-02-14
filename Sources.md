@@ -1,6 +1,6 @@
 # Sources for the various mods included in the 2.4 and Trident kits.
 
-Voron Official Build Guide:
+Voron Team And Build Guide:
 https://github.com/VoronDesign/Voron-2/blob/Voron2.4/Manual/Assembly_Manual_2.4r2.pdf
 
 Stealthburner Extruder:

@@ -37,7 +37,7 @@ Well lucky for you, I made a list!
 
 ## Printing
 
-Head over to the `2.4 STLs` and download all of the files there if you are printing parts for a 2.4 "pro" kit. 
+Head over to the `2.4 STLs` and download all of the files there if you are printing parts for a 2.4 "pro" kit. The `Custom STLs` folder are files from outside of the voron github repository, and should have everything you need.
 
 The `250`, `300`, `350`  folders contain the parts needed for each build volume. **So make sure to print the relevant ones!**
 

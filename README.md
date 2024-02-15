@@ -9,13 +9,14 @@ Start by getting yourself familiarized with the build. You can do this a number 
 
 
 That begs the question, "what do I need to build a printer from one of these kits?"
-Well lucky for you, I made a list! :-)
+Well lucky for you, I made a list!
 
 
 **The Main Tools:**
 * Soldering iron
 * Isopropyl alcohol
 * Paper towels
+* Crimping tools
 * Grease for the linear rails - Mobilux ep2 is best for our average use case
 * Threadlocker (blue/medium strength)
 * Some metric allen keys
@@ -26,7 +27,6 @@ Well lucky for you, I made a list! :-)
 
 **Very Nice Things To Have:**
 * Digital multimeter
-* Crimping tools
 * Spare wire
 * Exacto knife
 * Gloves for handling grease and ISO
